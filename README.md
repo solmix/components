@@ -1,0 +1,4 @@
+components
+==========
+
+Solmix application components
